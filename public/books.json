@@ -1,0 +1,79 @@
+[
+    {
+      "bookId": 1,
+      "bookName": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "image": "https://i.ibb.co/QQt59Gr/The-Hitchhiker-s-Guide-to-the-Galaxy.jpg",  
+      "review": "A hilarious and insightful science fiction comedy that follows Arthur Dent on his adventures after Earth is demolished to make way for a hyperspace bypass.",
+      "totalPages": 192,
+      "rating": 4.5,
+      "category": "Science Fiction",
+      "tags": ["Humor|          ", "Satire|          ", "Space Travel         "],
+      "publisher": "Pan Books",
+      "yearOfPublishing": 1979
+    },
+    {
+      "bookId": 2,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "https://i.ibb.co/YcRM4q5/Pride-and-Prejudice.jpg",  
+      "review": "A witty social commentary that follows the lives of the Bennet sisters as they search for love and marriage in 19th century England.",
+      "totalPages": 224,
+      "rating": 4.2,
+      "category": "Romance",
+      "tags": ["Classic|          ", "Social Commentary|          ", "Witty Dialogue          "],
+      "publisher": "Penguin Classics",
+      "yearOfPublishing": 1813
+    },
+    {
+      "bookId": 3,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://i.ibb.co/LksGHcb/To-Kill-a-Mockingbird.jpg", 
+      "review": "A powerful and moving story about racial injustice in the American South as seen through the eyes of a young girl.",
+      "totalPages": 324,
+      "rating": 4.8,
+      "category": "Fiction",
+      "tags": ["Coming-of-age|          ", "Social Justice          "],
+      "publisher": "J.B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "bookId": 4,
+      "bookName": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "image": "https://i.ibb.co/JktFrHY/The-Lord-of-the-Rings.jpg",  
+      "review": "An epic fantasy adventure that follows a hobbit on a quest to destroy the One Ring and defeat the Dark Lord Sauron.",
+      "totalPages": 1136,
+      "rating": 4.9,
+      "category": "Fantasy",
+      "tags": ["Epic|          ", "Adventure|          ", "High Fantasy          "],
+      "publisher": "Allen & Unwin",
+      "yearOfPublishing": 1954
+    },
+    {
+      "bookId": 5,
+      "bookName": "Frankenstein",
+      "author": "Mary Shelley",
+      "image": "https://i.ibb.co/vhRvWrJ/Frankenstein.jpg", 
+      "review": "A Gothic novel that explores the themes of science, creation, and the nature of humanity.",
+      "totalPages": 211,
+      "rating": 4.3,
+      "category": "Science Fiction",
+      "tags": ["Gothic|          ", "Horror|          ", "Science and Ethics          "],
+      "publisher": "Lackington, Hughes, Harding and Mavor",
+      "yearOfPublishing": 1818
+    },
+    {
+      "bookId": 6,
+      "bookName": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "image": "https://i.ibb.co/17Zzv6h/One-Hundred-Years-of-Solitude.jpg", 
+      "review": "A magical realist novel that follows the rise and fall of the Buendía family through seven generations in the fictional town of Macondo.",
+      "totalPages": 487,
+      "rating": 4.7,
+      "tags": ["Magical Realism|          ", "Family Saga|          ", "History          "],
+      "publisher": "Editorial Sudamericana",
+      "yearOfPublishing": 1967
+    }
+  ]

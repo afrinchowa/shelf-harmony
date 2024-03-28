@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    font-family: "Playfair Display", serif;
+  }
+
+  .work-sans{
+    font-family: "Work Sans", sans-serif;
+  }
+
+  .dashed-2 {
+    border: none;
+    height: 1px;
+    background: #0d0d1233;
+    background: repeating-linear-gradient(
+      90deg,
+      #0d0d1233,
+      #0d0d1233 6px,
+      transparent 6px,
+      transparent 12px
+    );}
+
