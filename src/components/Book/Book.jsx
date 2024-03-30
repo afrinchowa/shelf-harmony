@@ -13,7 +13,7 @@ const Book = ({ book }) => {
             <img
           src={image}
           alt=""
-          className="object-contain object-center p-6 w-full mx-auto rounded-md h-72 bg-gray-200 dark:bg-gray-500"
+          className="object-contain object-center p-6 w-full mx-auto rounded-md h-72 bg-gray-500 dark:bg-gray-500"
         />
         </div>
         <div className="text-[#23BE0A] text-xs font-semibold work-sans mt-3">
